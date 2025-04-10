@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IS/SS+Dv4aHczab25UKer1fCZgU7b1Wgry0kNqGSbna/TRqm2gFnzcL6+3+wlhDO/OfjYZmbBqi1BejTdLoHPQ==",
+  "success": true,
+  "projectFilePath": "/home/user/CloudQATest/CloudQATest.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/selenium.support/4.31.0/selenium.support.4.31.0.nupkg.sha512",
+    "/home/user/.nuget/packages/selenium.webdriver/4.31.0/selenium.webdriver.4.31.0.nupkg.sha512",
+    "/home/user/.nuget/packages/selenium.webdriver.chromedriver/135.0.7049.8400/selenium.webdriver.chromedriver.135.0.7049.8400.nupkg.sha512",
+    "/home/user/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
